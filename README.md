@@ -1,16 +1,21 @@
-# bmi_calculator
+# BMI Calculator:
 
-A new Flutter project.
+The Body Mass Index (BMI) Calculator can be used to calculate BMI value, BMI is a measurement of a person's leanness or corpulence based on their height and weight, and is intended to quantify tissue mass. It is widely used as a general indicator of whether a person has a healthy body weight for their height. Specifically, the value obtained from the calculation of BMI is used to categorize whether a person is underweight, normal weight, overweight, or obese depending on what range the value falls between.
 
-## Getting Started
+## App Video
 
-This project is a starting point for a Flutter application.
+<div align="center">
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/72248211/198826004-a649cad0-4ec3-4e18-b29b-fc9b019ddccf.mp4
+</div>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Hi, I'm Syed Hassaan Ali! 👋
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributing
+
+Contributions are always welcome!
+
+## Authors
+
+- [@Syed-Hassaan](https://www.github.com/Syed-Hassaan)
+
